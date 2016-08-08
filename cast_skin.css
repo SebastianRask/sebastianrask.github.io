@@ -1,0 +1,18 @@
+.background {
+  background: #2196F3;
+}
+
+.progressBar {
+  background-color: #1976D2;
+}
+
+.logo {
+	background-image: url(http://i.imgur.com/aTpTqR4.jpg);
+	background-size: auto 50%;
+}
+
+.splash {
+	background-image: url(http://i.imgur.com/YIlabNZ.jpg);
+	background-size: 70% auto;
+}
+		
